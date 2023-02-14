@@ -1,4 +1,4 @@
-# HR_Analytics_EDA_Visualisation_Supervised_ML_Model
+# HR_Analytics_EDA_Visualisation_Supervised_ML_Model_AUC_&_ROC_CURVE.
 I developed this project using Python in Jupyter Notebook and the DataSet was taken from Open Source Platformi.e. Kaggle ( IBM HR analytics ).
 
 HR analytics (also known as people analytics) is the collection and application of talent data to improve critical talent and business outcomes. HR analytics leaders enable HR leaders to develop data-driven insights to inform talent decisions, improve workforce processes and promote positive employee experience. HR analytics is a fairly novel tool. This means it is still largely unexplored in scientific literature. The bestknown scientific HR analytics definition is by Heuvel & Bondarouk. According to them, HR analytics is the systematic identification and quantification of the people drivers of business outcomes.
